@@ -1,0 +1,694 @@
+/*fonts*/
+@import url('https://fonts.cdnfonts.com/css/comica');
+                
+
+/*all*/
+body{
+    background: rgb(196,244,221);
+    background: linear-gradient(90deg, rgba(196,244,221,1) 0%, rgba(157,194,250,1) 100%);
+}
+/*Navigation Bar*/
+.navbar{
+    border: 1px solid #5D5D5D;
+    background-color:#5D5D5D;
+    padding: 15px;
+    padding-left:850px ;
+    text-align: center;
+    margin-left: -10px;
+    margin-right: -8.2px;
+    margin-top: -8.2px;
+    word-spacing: 10px;
+
+
+   
+}
+
+.logo
+{
+    border-radius: 50%;
+    padding-top: px;
+   width: 30px; 
+   height: auto; 
+    margin: px;
+    margin-top: -35px;
+    margin-bottom: -22px;
+    margin-right: 100px;
+    margin-left: -800px;
+   border-radius: 60%;
+   height: 100;
+   
+}
+
+
+/*links*/
+.links{
+    display: inline;
+}
+/*link effects*/
+.links a:hover{
+    background-color: #BDD6FD;
+    }
+
+/*characteristics*/
+.linkdesign{  border-radius: 25px;
+    border: 1.5px solid #000000;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
+    padding: 5px;
+    background-color: rgb(255, 255, 255);
+    font-family: cursive;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    
+}
+
+
+/*HOME*/
+.headerhome{
+    font-family: 'Comica';
+    color: #474747;
+    font-size: 70px;
+    font-weight: 1000;
+    margin-left:350px;
+    margin-top: 150px;
+                                              
+}
+.subheaderhome{
+    font-family:cursive;
+    font-size: 40px;
+    color: #474747;
+    font-weight: 500;
+    margin-left:300px;
+    margin-bottom: 0px;
+}
+
+/*bottom bar home*/
+.bottombarhome
+{
+    display: flex;
+    border: 1px solid #5D5D5D;
+    background-color:#5D5D5D;
+    padding: 0px;
+    text-align: center;
+    margin-left: -8px;
+    width: 100vw;
+    margin-right: -5px;
+    margin-top: 168px;
+    position: fixed;
+    font-family: cursive;
+    color: #FFFFFF;
+
+    
+
+    .icons{
+        word-spacing: 10px;
+        padding:10px;
+        padding-left: 570px;
+        
+    }
+}
+    
+
+/*lets go button*/
+    .letsgoo{
+        margin-left: 500px;
+        margin-top: 20px;
+}
+.letsgoo a:hover{
+    background-color: #BDD6FD;
+    }
+    .letsgobutton{  border-radius: 25px;
+        border: 1.5px solid #000000;
+        padding: 20px;
+        width: 200px;
+        height: 150px;
+        padding: 10px;
+        padding-left: 100px;
+        padding-right: 100px;
+        background-color: rgb(255, 255, 255);
+        font-family: cursive;
+        text-decoration: none;
+     color: rgb(0, 0, 0);
+}
+
+
+/*INTRO*/
+
+.headerintro{
+    font-family: 'Comica';
+    color: #474747;
+    font-size: 100px;
+    font-weight: 1000;
+    margin-left:500px;
+    margin-top: 60px;
+}
+.subheaderintro{
+    font-family:cursive;
+    font-size: 40px;
+    color: #474747;
+    font-weight: 500;
+    margin-left:400px;
+    margin-bottom: 0px;
+}
+.line1{
+    font-weight: bolder;
+    margin-left:370px;
+}
+
+.paraghraph1intro{
+    font-family:cursive;
+    text-align: center;
+    color: #474747;
+    padding-right: 375px;
+    margin-left:325px ;
+}
+/*bottom bar intro*/
+.bottombarintro
+{
+    display: flex;
+    border: 1px solid #5D5D5D;
+    background-color:#5D5D5D;
+    padding: 0px;
+    text-align: center;
+    margin-left: -8px;
+    width: 100vw;
+    margin-right: -5px;
+    margin-top: 78px;
+    position: fixed;
+    font-family: cursive;
+    color: #FFFFFF;
+
+    
+
+    .icons{
+        word-spacing: 10px;
+        padding:10px;
+        padding-left: 570px;
+        
+    }
+}
+
+/*DISCUSSION1*/
+
+.Discussion2{
+    margin-left: 1100px;
+    margin-top: -30px;
+}
+.Discussion2 a:hover{
+    background-color: #BDD6FD;
+    }
+
+.Discussion2button{  border-radius: 25px;
+    border: 1.5px solid #000000;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: rgb(255, 255, 255);
+    font-family: cursive;
+    text-decoration: none;
+ color: rgb(0, 0, 0);
+    
+}
+.headerquan{
+    font-family: 'Comica';
+    color: #474747;
+    font-size: 70px;
+    font-weight: 1000;
+    margin-left:10px;
+    margin-top: 10px;
+                                              
+}
+.subheaderquan{
+    font-family:cursive;
+    font-size: 30px;
+    color: #474747;
+    font-weight: 500;
+    margin-left:20px;
+    margin-bottom: 0px;
+}
+
+.line3{
+    font-weight: bolder;
+    margin-left:10px;
+    margin-top: -10px;
+}
+
+.location{
+    font-family:cursive;
+    font-size: 30px;
+    color: #474747;
+    font-weight: 500;
+    margin-left:50px;
+    margin-top: 20px;
+    writing-mode: vertical-lr;
+}
+.constat{
+    font-family:cursive;
+    font-size: 30px;
+    color: #474747;
+    font-weight: 500;
+    margin-left:600px;
+    margin-bottom: -220px;
+    margin-top: -20px;
+    writing-mode: vertical-lr;
+}
+
+.graph1{
+    margin-left: 100px;
+    margin-top: -180px;
+}
+
+.graph2{
+    margin-left: 650px;
+    margin-top: -205px;
+    border-radius: 500px;
+}       
+
+.line4{
+    font-weight: bolder;
+    margin-left: 85px;
+    margin-top: -10px;
+}
+
+.line5{
+    font-weight: bolder;
+    margin-left: 640px;
+    margin-top: -18px;
+}
+
+.locationpar{
+    font-family:cursive;
+    text-align: center;
+    color: #474747;
+    padding-right: 690px;
+    margin-left: 10px;
+}
+
+.constatpar{
+    font-family:cursive;
+    text-align: center;
+    color: #474747;
+    padding-right: 110px;
+    margin-left: 580px;
+    margin-top: -87px;
+}
+
+/*bottombar*/
+.bottombardisc1
+{
+    display: flex;
+    border: 1px solid #5D5D5D;
+    background-color:#5D5D5D;
+    padding: 0px;
+    text-align: center;
+    margin-left: -8px;
+    width: 100vw;
+    margin-right: -5px;
+    margin-top: 47.5px;
+    position: fixed;
+    font-family: cursive;
+    color: #FFFFFF;
+
+    
+
+    .icons{
+        word-spacing: 10px;
+        padding:10px;
+        padding-left: 570px;
+        
+    }
+}
+
+
+
+/*DISCUSSION2*/
+
+.Conclusiondes{
+    margin-left: 1100px;
+    margin-top: -30px;
+}
+.Conclusiondes a:hover{
+    background-color: #BDD6FD;
+    }
+
+.Conclusionbutton{  border-radius: 25px;
+    border: 1.5px solid #000000;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: rgb(255, 255, 255);
+    font-family: cursive;
+    text-decoration: none;
+ color: rgb(0, 0, 0);
+    
+}
+.headerqual{
+    font-family: 'Comica';
+    color: #474747;
+    font-size: 70px;
+    font-weight: 1000;
+    margin-left:10px;
+    margin-top: 10px;
+                                              
+}
+.subheaderqual{
+    font-family:cursive;
+    font-size: 30px;
+    color: #474747;
+    font-weight: 500;
+    margin-left:20px;
+    margin-bottom: 0px;
+}
+
+.line6{
+    font-weight: bolder;
+    margin-left:10px;
+    margin-top: -10px;
+}
+
+.weight{
+    font-family:cursive;
+    font-size: 30px;
+    color: #474747;
+    font-weight: 500;
+    margin-left:50px;
+    margin-top: 105px;
+    writing-mode: vertical-lr;
+}
+.population{
+    font-family:cursive;
+    font-size: 30px;
+    color: #474747;
+    font-weight: 500;
+    margin-left:600px;
+    margin-bottom: -220px;
+    margin-top: -20px;
+    writing-mode: vertical-lr;
+}
+
+.graph3{
+    margin-left: 100px;
+    margin-top: -180px;
+}
+
+.graph4{
+    margin-left: 650px;
+    margin-top: -205px;
+    border-radius: 500px;
+}       
+
+.line7{
+    font-weight: bolder;
+    margin-left: 85px;
+    margin-top: -10px;
+}
+
+.line8{
+    font-weight: bolder;
+    margin-left: 640px;
+    margin-top: -18px;
+}
+
+.weightpar{
+    font-family:cursive;
+    text-align: center;
+    color: #474747;
+    padding-right: 690px;
+    margin-left: 10px;
+}
+
+.poppar{
+    font-family:cursive;
+    text-align: center;
+    color: #474747;
+    padding-right: 110px;
+    margin-left: 580px;
+    margin-top: -45px;
+}
+
+/*bottombar*/
+.bottombardisc2
+{
+    display: flex;
+    border: 1px solid #5D5D5D;
+    background-color:#5D5D5D;
+    padding: 0px;
+    text-align: center;
+    margin-left: -8px;
+    width: 100vw;
+    margin-right: -5px;
+    margin-top: 94.5px;
+    position: fixed;
+    font-family: cursive;
+    color: #FFFFFF;
+
+    
+
+    .icons{
+        word-spacing: 10px;
+        padding:10px;
+        padding-left: 570px;
+    }
+    
+}
+
+
+
+/*CONCLUSION*/
+
+.headerconclusion{
+    font-family: 'Comica';
+    color: #474747;
+    font-size: 110px;
+    font-weight: 1000;
+    margin-left:350px;
+    margin-top: 60px;
+}
+
+.subheaderconclusion{
+    font-family:cursive;
+    font-size: 45px;
+    color: #474747;
+    font-weight: 500;
+    margin-left:450px;
+    margin-bottom: 0px;
+}
+
+.line8{
+    font-weight: 1000;
+    margin-left:380px;
+}
+
+
+.Discussion1{
+    margin-left: 1100px;
+    margin-top: -30px;
+}
+.Discussion1 a:hover{
+    background-color: #BDD6FD;
+    }
+
+.Discussion1button{  border-radius: 25px;
+    border: 1.5px solid #000000;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: rgb(255, 255, 255);
+    font-family: cursive;
+    text-decoration: none;
+ color: rgb(0, 0, 0);
+    
+}
+
+.paraghraph1conclusion{
+    font-family:cursive;
+    text-align: center;
+    color: #474747;
+    padding-right: 150px;
+    margin-left: 150px;
+    margin-top: 10px;
+    font-size: small;
+}
+
+/*bottombar*/
+.bottombarconclusion
+{
+    display: flex;
+    border: 1px solid #5D5D5D;
+    background-color:#5D5D5D;
+    padding: 0px;
+    text-align: center;
+    margin-left: -8px;
+    width: 100vw;
+    margin-right: -5px;
+    margin-top: 102px;
+    position: fixed;
+    font-family: cursive;
+    color: #FFFFFF;
+    padding-top: 0px;
+
+    
+
+    .icons{
+        word-spacing: 10px;
+        padding:10px;
+        padding-left: 570px;
+        
+        
+    }
+}
+
+/*Team*/
+
+.bannerteam{
+   margin-top: 30px;
+   margin-left: 250px;
+}
+
+.line9{
+    font-weight: bolder;
+    margin-left:200px;
+    margin-top: 5px;
+}
+
+.headerteam{
+    font-family: 'Comica';
+    color: #474747;
+    font-size: 100px;
+    font-weight: 1000;
+    margin-left:390px;
+    margin-top: -10px;
+}
+
+.subheaderteam{
+    font-family:cursive;
+    font-size: 10px;
+    color: #474747;
+    font-weight: 500;
+    margin-left:290px;
+}   
+
+/*Bottombar*/
+.bottombarteam
+{
+    display: flex;
+    border: 1px solid #5D5D5D;
+    background-color:#5D5D5D;
+    padding: 0px;
+    text-align: center;
+    margin-left: -8px;
+    width: 100vw;
+    margin-right: -5px;
+    margin-top: 71px;
+    position: fixed;
+    font-family: cursive;
+    color: #FFFFFF;
+
+    
+
+    .icons{
+        word-spacing: 10px;
+        padding:10px;
+        padding-left: 570px;
+        
+    }
+}
+
+/*References*/
+
+.headerref{
+    font-family: 'Comica';
+    color: #474747;
+    font-size: 110px;
+    font-weight: 1000;
+    margin-left:350px;
+    margin-top: 60px;
+}
+
+
+.ref1{
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+    color: #474747;
+    padding-right: 150px;
+    margin-left: 150px;
+    margin-top: 10px;
+    font-size: small;
+}
+.ref2{
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+    color: #474747;
+    padding-right: 150px;
+    margin-left: 150px;
+    margin-top: 10px;
+    font-size: small;
+}
+.ref3{
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+    color: #474747;
+    padding-right: 150px;
+    margin-left: 150px;
+    margin-top: 10px;
+    font-size: small;
+}
+
+.ref4{
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+    color: #474747;
+    padding-right: 150px;
+    margin-left: 150px;
+    margin-top: 10px;
+    font-size: small;
+}
+
+.ref5{
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+    color: #474747;
+    padding-right: 150px;
+    margin-left: 150px;
+    margin-top: 10px;
+    font-size: small;
+}
+
+/*bottombar*/
+.bottombarref
+{
+    display: flex;
+    border: 1px solid #5D5D5D;
+    background-color:#5D5D5D;
+    padding: 0px;
+    text-align: center;
+    margin-left: -8px;
+    width: 100vw;
+    margin-right: -5px;
+    margin-top: 187px;
+    position: fixed;
+    font-family: cursive;
+    color: #FFFFFF;
+    padding-top: 0px;
+
+    
+
+    .icons{
+        word-spacing: 10px;
+        padding:10px;
+        padding-left: 570px;
+        
+        
+    }
+
+}
